@@ -4,7 +4,7 @@ This is the working area for the individual Internet-Draft, "Clarifications for 
 
 * [Editor's Copy](https://lamps-wg.github.io/draft-ietf-lamps-5480-ku-clarifications/#go.draft-ietf-lamps-5480-ku-clarifications.html)
 * [WG Draft](https://tools.ietf.org/html/draft-ietf-lamps-5480-ku-clarifications)
-* [Compare Editor's Copy to Individual Draft](https://lamps-wg.github.io/draft-ietf-lamps-5480-ku-clarifications/#go.draft-ietf-lamps-5480-ku-clarifications.diff)
+* [Compare Editor's Copy to RFC](https://author-tools.ietf.org/diff?doc_1=rfc8813&url_2=https://raw.githubusercontent.com/lamps-wg/draft-ietf-lamps-5480-ku-clarifications/refs/heads/gh-pages/draft-turner-5480-ku-clarifications.txt)
 
 ## Building the Draft
 
